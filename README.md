@@ -1,4 +1,4 @@
-# electron-quick-start - my app
+# electron-quick-start - my app version 2
 
 **Clone and run for a quick way to see Electron in action.**
 
